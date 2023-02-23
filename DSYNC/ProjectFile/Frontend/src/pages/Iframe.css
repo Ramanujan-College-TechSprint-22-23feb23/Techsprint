@@ -1,0 +1,347 @@
+.body,
+.icon1 {
+  position: absolute;
+  left: 0;
+}
+.icon1 {
+  top: 34px;
+  width: 892px;
+  height: 824px;
+  object-fit: cover;
+}
+.body {
+  top: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 892px;
+}
+.login,
+.please-enter-your {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.login {
+  top: 1px;
+  font-size: var(--font-size-18xl);
+  line-height: 60px;
+  font-weight: 500;
+  color: var(--color-black);
+  width: 124.65px;
+  height: 58px;
+}
+.please-enter-your {
+  top: 70px;
+  line-height: 22.5px;
+  width: 268.57px;
+  height: 18px;
+}
+.inputremember1 {
+  position: absolute;
+  top: 3.75px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray-200);
+  box-sizing: border-box;
+  width: 15px;
+  height: 15px;
+}
+.keep-me-logged {
+  position: absolute;
+  top: 2px;
+  left: 22.5px;
+  line-height: 22.5px;
+  display: flex;
+  align-items: center;
+  width: 123.31px;
+  height: 18px;
+}
+.div881,
+.forgot-password {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 145.61px;
+  height: 24px;
+}
+.forgot-password {
+  top: 2px;
+  left: 333.45px;
+  line-height: 22.5px;
+  font-weight: 500;
+  color: var(--color-blueviolet);
+  display: flex;
+  align-items: center;
+  width: 120.36px;
+  height: 18px;
+}
+.div880 {
+  position: absolute;
+  top: 166px;
+  left: 0;
+  width: 453.61px;
+  height: 54px;
+}
+.log-in1 {
+  position: relative;
+  line-height: 27px;
+  font-weight: 500;
+}
+.button65 {
+  position: absolute;
+  top: 220px;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-blueviolet);
+  box-shadow: 0 15px 30px -7px rgba(119, 84, 246, 0.5);
+  border: 1px solid var(--color-blueviolet);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xl) var(--padding-18xl) var(--padding-xl)
+    var(--padding-17xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+}
+.sign-up2 {
+  font-weight: 500;
+  color: var(--color-blueviolet);
+}
+.dont-have-an-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.dont-have-an-container,
+.infoexamplecom1 {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.dont-have-an-container {
+  top: 306px;
+  line-height: 22.5px;
+  width: 208.09px;
+  height: 18px;
+}
+.infoexamplecom1 {
+  top: 0;
+  width: 138.17px;
+  height: 19px;
+}
+.divplaceholder4 {
+  position: absolute;
+  top: 19.5px;
+  left: 12px;
+  width: 427.61px;
+  height: 19px;
+  overflow: hidden;
+}
+.inputemail1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+  height: 60px;
+}
+.email-address1 {
+  position: absolute;
+  height: calc(100% - 42px);
+  width: calc(100% - 357.52px);
+  top: 19px;
+  left: 13px;
+  font-size: var(--font-size-lg);
+  line-height: 22.5px;
+  display: flex;
+  align-items: center;
+}
+.div882 {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  width: 453.61px;
+  height: 60px;
+  font-size: var(--font-size-2xl);
+}
+.password2,
+.password3 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.password2 {
+  top: 0;
+  left: 0;
+  width: 70.86px;
+  height: 19px;
+}
+.password3 {
+  height: calc(100% - 42px);
+  width: calc(100% - 387.18px);
+  top: 19px;
+  left: 13px;
+  font-size: var(--font-size-lg);
+  line-height: 22.5px;
+}
+.div884 {
+  position: relative;
+  line-height: 30px;
+}
+.div883,
+.span87 {
+  position: absolute;
+}
+.span87 {
+  top: 18px;
+  left: 413.61px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-13xl) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+}
+.div883 {
+  top: 91px;
+  left: 0;
+  width: 453.61px;
+  height: 60px;
+  font-size: var(--font-size-2xl);
+}
+.icon-googlesvg3 {
+  position: relative;
+  width: 62px;
+  height: 62px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.a10,
+.a11,
+.a12,
+.a13,
+.icon-googlesvg2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.a10,
+.a11,
+.a12,
+.a13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-lightgray-200);
+  padding: var(--padding-4xs);
+}
+.a11,
+.a12,
+.a13 {
+  left: 123.2px;
+}
+.a12,
+.a13 {
+  left: 246.41px;
+}
+.a13 {
+  left: 369.61px;
+}
+.h4before1,
+.ul17 {
+  position: absolute;
+  top: 70.8px;
+  left: 0;
+  width: 453.61px;
+  height: 84px;
+}
+.h4before1 {
+  top: -18.59px;
+  left: 0.41px;
+  background-color: var(--color-lightgray-200);
+  width: 453px;
+  height: 1px;
+}
+.or-continue-with1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 49.87px);
+  line-height: 16.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 99.93px;
+  height: 16px;
+}
+.h41,
+.span88 {
+  position: absolute;
+  height: 16.8px;
+}
+.span88 {
+  top: 0;
+  left: calc(50% - 69.87px);
+  background-color: var(--color-white);
+  width: 139.73px;
+}
+.h41 {
+  top: 30px;
+}
+.div885,
+.form1,
+.h41 {
+  left: 0;
+  width: 453.61px;
+}
+.div885 {
+  position: absolute;
+  top: 334.5px;
+  height: 220.8px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.form1 {
+  top: 114.5px;
+  height: 555.3px;
+}
+.div878,
+.div879,
+.form1 {
+  position: absolute;
+}
+.div879 {
+  top: 104.59px;
+  left: 81.59px;
+  width: 453.61px;
+  height: 669.8px;
+}
+.div878 {
+  height: 100%;
+  width: calc(100% - 909px);
+  top: 0;
+  right: 52px;
+  bottom: 0;
+  left: 857px;
+  background-color: var(--color-white);
+}
+.iframe {
+  position: relative;
+  width: 100%;
+  height: 892px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,342 @@
+.create-your-account1,
+.sign-up3 {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.sign-up3 {
+  top: 1px;
+  line-height: 60px;
+  font-weight: 500;
+  color: var(--color-black);
+  width: 167.68px;
+  height: 58px;
+}
+.create-your-account1 {
+  top: 70px;
+  font-size: var(--font-size-lg);
+  line-height: 22.5px;
+  width: 213.89px;
+  height: 18px;
+}
+.inputremember2 {
+  position: absolute;
+  top: 3.75px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray-200);
+  box-sizing: border-box;
+  width: 15px;
+  height: 15px;
+}
+.terms-of-service1 {
+  font-weight: 500;
+  color: var(--color-blueviolet);
+}
+.i-agree-to-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.i-agree-to-container2 {
+  position: absolute;
+  top: 2px;
+  left: 22.5px;
+  line-height: 22.5px;
+  display: flex;
+  align-items: center;
+  width: 330.72px;
+  height: 18px;
+}
+.div892 {
+  position: absolute;
+  top: 241px;
+  left: 0;
+  width: 353.02px;
+  height: 24px;
+  font-size: var(--font-size-lg);
+}
+.create-an-account1 {
+  position: relative;
+  line-height: 27px;
+  font-weight: 500;
+}
+.button66 {
+  position: absolute;
+  top: 295px;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-blueviolet);
+  box-shadow: 0 15px 30px -7px rgba(119, 84, 246, 0.5);
+  border: 1px solid var(--color-blueviolet);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xl) var(--padding-15xl) var(--padding-xl)
+    var(--padding-16xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+}
+.already-a-member-container2,
+.full-name2 {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.already-a-member-container2 {
+  top: 381px;
+  font-size: var(--font-size-lg);
+  line-height: 22.5px;
+  width: 173.37px;
+  height: 18px;
+}
+.full-name2 {
+  top: 0;
+  width: 72.03px;
+  height: 19px;
+}
+.divplaceholder6 {
+  position: absolute;
+  top: 19.5px;
+  left: 12px;
+  width: 427.61px;
+  height: 19px;
+  overflow: hidden;
+}
+.inputname1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+  height: 60px;
+}
+.full-name3 {
+  position: absolute;
+  height: calc(100% - 42px);
+  width: calc(100% - 386.07px);
+  top: 19px;
+  left: 13px;
+  font-size: var(--font-size-lg);
+  line-height: 22.5px;
+  display: flex;
+  align-items: center;
+}
+.div893 {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  width: 453.61px;
+  height: 60px;
+}
+.email-address2,
+.infoexamplecom2 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.infoexamplecom2 {
+  top: 0;
+  left: 0;
+  width: 138.17px;
+  height: 19px;
+}
+.email-address2 {
+  height: calc(100% - 42px);
+  width: calc(100% - 357.52px);
+  top: 19px;
+  left: 13px;
+  font-size: var(--font-size-lg);
+  line-height: 22.5px;
+}
+.div894 {
+  position: absolute;
+  top: 91px;
+  left: 0;
+  width: 453.61px;
+  height: 60px;
+}
+.password4,
+.password5 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.password4 {
+  top: 0;
+  left: 0;
+  width: 70.86px;
+  height: 19px;
+}
+.password5 {
+  height: calc(100% - 42px);
+  width: calc(100% - 387.18px);
+  top: 19px;
+  left: 13px;
+  font-size: var(--font-size-lg);
+  line-height: 22.5px;
+}
+.div896 {
+  position: relative;
+  line-height: 30px;
+}
+.div895,
+.span87 {
+  position: absolute;
+}
+.span87 {
+  top: 15px;
+  left: 413.61px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+}
+.div895 {
+  top: 166px;
+  left: 0;
+  width: 453.61px;
+  height: 60px;
+}
+.icon-googlesvg5 {
+  position: relative;
+  width: 62px;
+  height: 62px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.a39,
+.a40,
+.a41,
+.a42,
+.icon-googlesvg4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.a39,
+.a40,
+.a41,
+.a42 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-lightgray-200);
+  padding: var(--padding-4xs);
+}
+.a40,
+.a41,
+.a42 {
+  left: 123.2px;
+}
+.a41,
+.a42 {
+  left: 246.41px;
+}
+.a42 {
+  left: 369.61px;
+}
+.h4before2,
+.ul19 {
+  position: absolute;
+  top: 70.8px;
+  left: 0;
+  width: 453.61px;
+  height: 84px;
+}
+.h4before2 {
+  top: 7.89px;
+  background-color: var(--color-lightgray-200);
+  height: 1px;
+}
+.or-continue-with2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 49.87px);
+  line-height: 16.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 99.93px;
+  height: 16px;
+}
+.span88 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 69.87px);
+  background-color: var(--color-white);
+  width: 139.73px;
+  height: 16.8px;
+}
+.h42 {
+  top: 30px;
+  height: 16.8px;
+}
+.div897,
+.form2,
+.h42 {
+  position: absolute;
+  left: 0;
+  width: 453.61px;
+}
+.div897 {
+  top: 409.5px;
+  height: 220.8px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.form2 {
+  top: 114.5px;
+  height: 630.3px;
+  font-size: var(--font-size-2xl);
+}
+.div891 {
+  top: 75.59px;
+  left: 75.59px;
+  width: 453.61px;
+  height: 744.8px;
+}
+.div890,
+.div891,
+.icon2 {
+  position: absolute;
+}
+.div890 {
+  height: 100%;
+  width: calc(100% - 907.2px);
+  top: 0;
+  right: 45.2px;
+  bottom: 0;
+  left: 862px;
+  background-color: var(--color-white);
+}
+.icon2 {
+  top: 79px;
+  left: 0;
+  width: 892px;
+  height: 824px;
+  object-fit: cover;
+}
+.untreeco-by-htmltodesign1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  text-align: left;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-500);
+  font-family: var(--font-roboto);
+}

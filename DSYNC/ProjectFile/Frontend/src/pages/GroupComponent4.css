@@ -1,0 +1,50 @@
+.hostel-hopper4 {
+  display: inline-block;
+  -webkit-text-stroke: 1px #4e5dc0;
+}
+.bunk-1-icon3,
+.group-wrapper453,
+.group-wrapper454,
+.hostel-hopper4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 251px;
+  height: 44px;
+}
+.bunk-1-icon3,
+.group-wrapper453 {
+  top: 17px;
+  left: 88px;
+}
+.bunk-1-icon3 {
+  top: 11px;
+  left: 24px;
+  width: 50px;
+  height: 50px;
+}
+.bunk-1-icon3,
+.pngwing-1-icon3 {
+  object-fit: cover;
+}
+.group-wrapper414,
+.group-wrapper512,
+.pngwing-1-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 80px;
+}
+.group-wrapper414 {
+  width: 339px;
+}
+.group-parent6 {
+  position: relative;
+  width: 100%;
+  height: 80px;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-slateblue);
+  font-family: var(--font-mulish);
+}

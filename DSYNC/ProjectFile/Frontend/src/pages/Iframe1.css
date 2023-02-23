@@ -1,0 +1,347 @@
+.body1,
+.icon3 {
+  position: absolute;
+  left: 0;
+}
+.icon3 {
+  top: 34px;
+  width: 892px;
+  height: 824px;
+  object-fit: cover;
+}
+.body1 {
+  top: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 892px;
+}
+.login1,
+.please-enter-your1 {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.login1 {
+  top: 1px;
+  font-size: var(--font-size-18xl);
+  line-height: 60px;
+  font-weight: 500;
+  color: var(--color-black);
+  width: 124.65px;
+  height: 58px;
+}
+.please-enter-your1 {
+  top: 70px;
+  line-height: 22.5px;
+  width: 268.57px;
+  height: 18px;
+}
+.inputremember3 {
+  position: absolute;
+  top: 3.75px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray-200);
+  box-sizing: border-box;
+  width: 15px;
+  height: 15px;
+}
+.keep-me-logged1 {
+  position: absolute;
+  top: 2px;
+  left: 22.5px;
+  line-height: 22.5px;
+  display: flex;
+  align-items: center;
+  width: 123.31px;
+  height: 18px;
+}
+.div901 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 145.61px;
+  height: 24px;
+}
+.forgot-password1 {
+  position: absolute;
+  top: 2px;
+  left: 333.45px;
+  line-height: 22.5px;
+  font-weight: 500;
+  color: var(--color-blueviolet);
+  display: flex;
+  align-items: center;
+  width: 120.36px;
+  height: 18px;
+}
+.div900 {
+  position: absolute;
+  top: 166px;
+  left: 0;
+  width: 453.61px;
+  height: 54px;
+}
+.log-in3 {
+  position: relative;
+  line-height: 27px;
+  font-weight: 500;
+}
+.button67 {
+  position: absolute;
+  top: 220px;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-blueviolet);
+  box-shadow: 0 15px 30px -7px rgba(119, 84, 246, 0.5);
+  border: 1px solid var(--color-blueviolet);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xl) var(--padding-18xl) var(--padding-xl)
+    var(--padding-17xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+}
+.sign-up4 {
+  font-weight: 500;
+  color: var(--color-blueviolet);
+}
+.dont-have-an-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.dont-have-an-container2,
+.infoexamplecom3 {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.dont-have-an-container2 {
+  top: 306px;
+  line-height: 22.5px;
+  width: 208.09px;
+  height: 18px;
+}
+.infoexamplecom3 {
+  top: 0;
+  width: 138.17px;
+  height: 19px;
+}
+.divplaceholder9 {
+  position: absolute;
+  top: 19.5px;
+  left: 12px;
+  width: 427.61px;
+  height: 19px;
+  overflow: hidden;
+}
+.inputemail3 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+  height: 60px;
+}
+.email-address3 {
+  position: absolute;
+  height: calc(100% - 42px);
+  width: calc(100% - 357.52px);
+  top: 19px;
+  left: 13px;
+  font-size: var(--font-size-lg);
+  line-height: 22.5px;
+  display: flex;
+  align-items: center;
+}
+.div902 {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  width: 453.61px;
+  height: 60px;
+  font-size: var(--font-size-2xl);
+}
+.password6,
+.password7 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.password6 {
+  top: 0;
+  left: 0;
+  width: 70.86px;
+  height: 19px;
+}
+.password7 {
+  height: calc(100% - 42px);
+  width: calc(100% - 387.18px);
+  top: 19px;
+  left: 13px;
+  font-size: var(--font-size-lg);
+  line-height: 22.5px;
+}
+.div904 {
+  position: relative;
+  line-height: 30px;
+}
+.div903,
+.span89 {
+  position: absolute;
+}
+.span89 {
+  top: 18px;
+  left: 413.61px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-13xl) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+}
+.div903 {
+  top: 91px;
+  left: 0;
+  width: 453.61px;
+  height: 60px;
+  font-size: var(--font-size-2xl);
+}
+.icon-googlesvg7 {
+  position: relative;
+  width: 62px;
+  height: 62px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.a43,
+.a44,
+.a45,
+.a46,
+.icon-googlesvg6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.a43,
+.a44,
+.a45,
+.a46 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-lightgray-200);
+  padding: var(--padding-4xs);
+}
+.a44,
+.a45,
+.a46 {
+  left: 123.2px;
+}
+.a45,
+.a46 {
+  left: 246.41px;
+}
+.a46 {
+  left: 369.61px;
+}
+.h4before3,
+.ul20 {
+  position: absolute;
+  top: 70.8px;
+  left: 0;
+  width: 453.61px;
+  height: 84px;
+}
+.h4before3 {
+  top: -18.59px;
+  left: 0.41px;
+  background-color: var(--color-lightgray-200);
+  width: 453px;
+  height: 1px;
+}
+.or-continue-with3 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 49.87px);
+  line-height: 16.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 99.93px;
+  height: 16px;
+}
+.h43,
+.span90 {
+  position: absolute;
+  height: 16.8px;
+}
+.span90 {
+  top: 0;
+  left: calc(50% - 69.87px);
+  background-color: var(--color-white);
+  width: 139.73px;
+}
+.h43 {
+  top: 30px;
+}
+.div905,
+.form3,
+.h43 {
+  left: 0;
+  width: 453.61px;
+}
+.div905 {
+  position: absolute;
+  top: 334.5px;
+  height: 220.8px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.form3 {
+  top: 114.5px;
+  height: 555.3px;
+}
+.div898,
+.div899,
+.form3 {
+  position: absolute;
+}
+.div899 {
+  top: 75.59px;
+  left: 75.59px;
+  width: 453.61px;
+  height: 669.8px;
+}
+.div898 {
+  height: 100%;
+  width: calc(100% - 909px);
+  top: 0;
+  right: 52px;
+  bottom: 0;
+  left: 857px;
+  background-color: var(--color-white);
+}
+.iframe1 {
+  position: relative;
+  width: 100%;
+  height: 892px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+  font-family: var(--font-roboto);
+}
