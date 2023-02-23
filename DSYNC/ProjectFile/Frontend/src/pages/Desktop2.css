@@ -1,0 +1,37 @@
+.desktop-2-child {
+  position: absolute;
+  top: 24px;
+  left: 29px;
+  background-color: var(--color-snow-200);
+  border: 1px solid var(--color-cornflowerblue-200);
+  box-sizing: border-box;
+  width: 1375px;
+  height: 57px;
+}
+.search-collegescompanies-etc {
+  position: absolute;
+  top: 38px;
+  left: 50px;
+  display: inline-block;
+  width: 667px;
+  height: 55px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 112px;
+  left: 0;
+  width: 1440px;
+  height: 912px;
+  object-fit: cover;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-darkgray-200);
+  font-family: var(--font-inter);
+}

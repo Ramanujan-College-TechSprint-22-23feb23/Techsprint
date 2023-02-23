@@ -1,0 +1,50 @@
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  border: 3px solid var(--color-cornflowerblue-200);
+  box-sizing: border-box;
+  width: 489px;
+  height: 65px;
+}
+.search-for-files1 {
+  position: absolute;
+  top: 20.55px;
+  left: 32.94px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 364.58px;
+  height: 23.9px;
+}
+.group-icon,
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 489px;
+  height: 65px;
+}
+.group-icon {
+  top: 11px;
+  left: 413px;
+  width: 47.01px;
+  height: 44.93px;
+}
+.search1 {
+  position: absolute;
+  top: 21.96px;
+  left: 425.97px;
+  letter-spacing: 0.02em;
+  font-family: var(--font-font-awesome-5-free);
+  color: var(--color-white);
+}
+.group-root {
+  position: relative;
+  width: 100%;
+  height: 65px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-roboto);
+}
