@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 const conn_str =
-  "mongodb+srv://gracy:alN8nDPMxe8pBqnP@aroundu.bxkzbco.mongodb.net/aroundu?retryWrites=true&w=majority";
+  "mongodb+srv://gracy:<Password>.bxkzbco.mongodb.net/aroundu?retryWrites=true&w=majority";
 
 mongoose.set("strictQuery", true);
 mongoose.connect(

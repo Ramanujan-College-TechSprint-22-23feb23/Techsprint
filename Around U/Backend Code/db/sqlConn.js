@@ -2,10 +2,10 @@ const mysql = require("mysql");
 require("dotenv").config();
 
 const connection = mysql.createConnection({
-  host: "aroundu.ccltomrakgg4.ap-northeast-1.rds.amazonaws.com",
-  port: "3306",
-  user: "hzshashwat",
-  password: "aroundUlogin22",
+  host: "",
+  port: "",
+  user: "",
+  password: "",
   database: "aroundu",
 });
 
@@ -19,13 +19,7 @@ connection.connect((err) => {
 
 module.exports = connection;
 
-// var pool = mysql.createPool({
-//   connectionLimit: 10,
-//   host: "aroundu1.ccltomrakgg4.ap-northeast-1.rds.amazonaws.com",
-//   user: "admin",
-//   password: "aroundUlogin22",
-//   databases: "AroundU1",
-// });
+
 
 // const connect = pool.getConnection(function (err, connection) {
 //   if (err) console.log(err); // not connected!
